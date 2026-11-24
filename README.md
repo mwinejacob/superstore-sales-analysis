@@ -2,7 +2,7 @@
 
 Analysis of customer purchase volume, monthly seasonality, category revenue and discount sensitivity, with five executive takeaways. Completed as part of the Datheon internship.
 
-**Author:** [Your name]
+**Author:** [Jacob Tumwine]
 **Tools:** Microsoft Excel (PivotTables, PivotCharts, conditional formatting)
 
 ## Dataset
